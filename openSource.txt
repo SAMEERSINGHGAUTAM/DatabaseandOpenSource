@@ -1,0 +1,14 @@
+Open source - Resource or source code is available to anyone. They can contribute as well.
+Benefits of open-source:-
+	1. Collaboration 
+	2. Community
+Cost Efficiency
+Visible to everyone
+
+- It is organised by Digital Ocean
+Node.js and Appwrite - Open source Project
+For whom Hacktoberfest event for ?
+Mainter, Contributer and Beginner 
+
+PR - Pull Request
+hyperswitch, cloudinary and novu 
